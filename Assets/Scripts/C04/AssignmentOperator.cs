@@ -27,7 +27,6 @@ public class AssignmentOperator : MonoBehaviour
         Debug.Log($"a |= 30 : {a}");
         a ^= 20;
         Debug.Log($"a ^= 20 : {a}");
-        Debug.Log($"a ^= 20 : {a}");
         a <<= 10;
         Debug.Log($"a <<= 10 : {a}");
         a >>= 1;
